@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Omni-Gen AI",
+  "description": "A comprehensive AI generation suite leveraging the full power of Gemini API for Text, Image, Video, Audio, and Real-time Live interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
